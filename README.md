@@ -6,7 +6,7 @@ Para un correcto uso de este repositorio y sus características usted debe crear
 
 Diríjase a la [wiki](https://github.com/SIB-Colombia/migracion/wiki#migraci%C3%B3n-fichas-cbc) para la documentación.
 
-Diríjase a esta carpeta [wiki](https://github.com/SIB-Colombia/migracion/wiki#migraci%C3%B3n-fichas-cbc) para mayor información.
+Diríjase a esta [carpeta](https://goo.gl/YR1ovB) para mayor información.
 
 
 
